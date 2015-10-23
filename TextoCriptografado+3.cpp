@@ -1,15 +1,13 @@
 #include <iostream>
 #include <stdio.h>
-#include <string.h>
 using namespace std;
 
 int main ()
 {
 	
 	int x;
-	//char texto[999];
-	string texto;
-	
+	char texto[999];
+
 	cout<<"Escreve o texto a ser criptografado: ";
 	cin>>texto;
 	
