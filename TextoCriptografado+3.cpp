@@ -17,7 +17,7 @@ int main ()
 		texto[x]=texto[x]+3;
 	};
 		
-	cout<<"\nSeu texto criptografado e esse:\n"<<texto<<"\n\n";
+	cout<<"Seu texto criptografado e esse:\n\t"<<texto<<"\n\n";
 	
 								
 				
