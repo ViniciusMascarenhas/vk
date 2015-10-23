@@ -14,5 +14,7 @@ using namespace std;	// Para não precisar digitar std:: toda vez que for usar c
 int main ()
 {
 	
+	
+	return 0;
 }
 
